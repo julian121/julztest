@@ -4,6 +4,7 @@ purple
 ping
 orange
 Green
+indigo
 unicorn
 yellow
 these are the colors
